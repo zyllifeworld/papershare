@@ -1,0 +1,6 @@
+theme = "hugo-base16-theme"
+baseURL = "/"
+languageCode = "en-us"
+title = "PaperShare"
+
+
